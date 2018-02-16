@@ -1,0 +1,3 @@
+[submodule "wgetRetry"]
+	path = wgetRetry
+	url = https://github.com/jensGiehl/wgetRetry
